@@ -25,3 +25,4 @@ if __name__== '__main__':
  
     # Print output
     print ("Sum is: {0:.4f}".format(sum(x, n)))
+#what is going on
